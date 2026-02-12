@@ -1,0 +1,23 @@
+
+# Core Machine Learning
+tensorflow>=2.15.0
+keras>=3.0.0
+numpy<2.0.0
+
+# Data & API
+kaggle>=1.6.0
+python-dotenv>=1.0.0
+
+# Testing & Utilities
+pytest>=9.0.2
+matplotlib>=3.8.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# --- Web Service (FastAPI) ---
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.9
+jinja2
+aiofiles
