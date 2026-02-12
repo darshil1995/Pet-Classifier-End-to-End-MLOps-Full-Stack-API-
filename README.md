@@ -12,7 +12,7 @@ This project is a production-grade image classification system that identifies c
 3. **Front-End:** Tailwind CSS, JavaScript (LocalStorage)
 4. **Data Pipeline:** tf.data API with Parallel Pre-fetching 
 5. **Quality Assurance:** Pytest (Multi-stage validation gates)
-6. **DevOps:** Docker, GitHub Actions (optional), Hugging Face Spaces
+6. **DevOps:** Docker
 
 ---
 
